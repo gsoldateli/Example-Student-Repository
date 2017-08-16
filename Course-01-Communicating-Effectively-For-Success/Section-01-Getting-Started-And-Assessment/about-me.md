@@ -6,9 +6,9 @@ You do not have to follow the the structure of this file.  Be creative!
 
 
 
-#Student Name
+# Student Name
 
-##Introduction
+## Introduction
 Proud geek here! I’m a Joss Whedon fanatic and a gadget fiend. My mornings usually consist of checking the Gizmodo RSS feed while simultaneously hunting for the nearest caffeine source.
 
 As soon as I get a new cell phone, game system, or PC the first thing I do is wipe out the OS and replace it with something that will let me play the 30 years old original Super Mario Brothers on my mint condition cutting-edge device because, I don't know, “The man” won't control me?
@@ -16,7 +16,7 @@ As soon as I get a new cell phone, game system, or PC the first thing I do is wi
 I work in a hospital and I really enjoy it, but in a perfect world I’d be directing a romantic comedy starring a fictionalized version of Robert Englund as himself. He falls in love with a pantophobic. It's exactly as weird as it sounds.
 
 
-###Programming
+### Programming
 
 My first taste of programming occurred during a C++ class I took my senior year of high school.  During the first few weeks I really struggled with the class.  I was seriously afraid of failing.  I scheduled a few one on one meetings with my programming teacher, and after three or four days something clicked.  I excelled pretty quickly once I got the basics down.  Not only did I get into an A every semester, I actually won a department award.
 
@@ -36,7 +36,7 @@ After Modern Developer:  Wake-up, coffee, code, work, more code.  Call wife.  Mo
 
 If that sounds less exciting- well, maybe from some perspective it is.  Truth be told, I couldn't be happier.  Laser focus.
 
-###This Assignment Needs a Cool Picture
+### This Assignment Needs a Cool Picture
 
 I don't feel comfortable putting a picture of myself up, so...
 
