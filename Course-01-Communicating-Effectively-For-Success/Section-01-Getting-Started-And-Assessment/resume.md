@@ -5,9 +5,9 @@ Please Remove and Replace with your Own
 ---
 
 
-#Name Removed
+# Name Removed
 
-###Contact Info
+### Contact Info
 - Removed 
 - Removed
 
